@@ -36,7 +36,7 @@
 
 
 
-img[alt*="5"] {
+img[alt="Kitty_5"] {
   position: absolute;
   z-index: 3;
   top: 217px;
